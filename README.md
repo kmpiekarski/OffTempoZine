@@ -1,4 +1,4 @@
 OffTempoZine
 ============
 
-Repro for the basic Off Tempo Zine site
+Repro for the basic non-CMS Off Tempo Zine site
